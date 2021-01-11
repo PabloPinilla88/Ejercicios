@@ -1,0 +1,9 @@
+function imprimeHasta(x) {
+  for (i=1; i<=1000000; i++)
+  }
+  
+  y = imprimeHasta(-10);// escribe tu código aquí
+
+imprimeHasta(1000000); // debe imprimir todos los enteros desde el 1 hasta el 1000000
+y = imprimeHasta(-10); 
+console.log(y); // debe imprimir 'false'
